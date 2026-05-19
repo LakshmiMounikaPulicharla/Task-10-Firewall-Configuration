@@ -1,3 +1,9 @@
+# Archived Repository
+
+This repository has been consolidated into the master portfolio repository:
+
+https://github.com/LakshmiMounikaPulicharla/cybersecurity-internship-portfolio
+
 # Task 10: Firewall Configuration & Testing
 
 This repository contains my practical work on configuring and testing a firewall using **UFW (Uncomplicated Firewall)** on Ubuntu.  
